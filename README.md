@@ -44,5 +44,3 @@ This Python application provides a simple Personal Library Management System wit
 
 ## Credits
 Code : Meriem Dorgham, Lina Hamza
-
-Video editing : Nour Shimi
