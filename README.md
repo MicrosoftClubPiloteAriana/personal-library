@@ -20,7 +20,7 @@ This Python application provides a simple Personal Library Management System wit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/personal-library.git
+   git clone https://github.com/MicrosoftClubPiloteAriana/personal-library.git
    cd personal-library
    ```
 
